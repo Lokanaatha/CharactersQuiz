@@ -37,17 +37,16 @@
           "children": [
             {
               "alphaPremultiplicationMode": "should_premultiply",
-              "assetDataHash": "216b0d444e0ad2479ccb255143bdb510",
+              "assetDataHash": "11e4115f67122a765af3558c0228f3d4",
               "assetLocator": "textures/Q01.png",
               "children": [
                 {
-                  "assetDataHash": "216b0d444e0ad2479ccb255143bdb510",
-                  "colorCount": 19079,
+                  "assetDataHash": "11e4115f67122a765af3558c0228f3d4",
+                  "colorCount": 256,
                   "detectedAlphaChannel": "no_alpha",
                   "detectedOriginalFormat": "png",
-                  "entropyOfDistribution": 2.62704296202016,
+                  "entropyOfDistribution": 2.0420431430670583,
                   "modelName": "data_texture_metadata_model",
-                  "name": "data_texture_metadata_model0",
                   "pixelsHigh": 1024,
                   "pixelsWide": 1024
                 }
@@ -78,17 +77,16 @@
             },
             {
               "alphaPremultiplicationMode": "should_premultiply",
-              "assetDataHash": "55166595a914f8e11f21e63aa762e0ab",
+              "assetDataHash": "ada4cced26075118c8bb2fbc9cae182a",
               "assetLocator": "textures/Q02.png",
               "children": [
                 {
-                  "assetDataHash": "55166595a914f8e11f21e63aa762e0ab",
-                  "colorCount": 33044,
-                  "detectedAlphaChannel": "eight_bit_full_range",
+                  "assetDataHash": "ada4cced26075118c8bb2fbc9cae182a",
+                  "colorCount": 255,
+                  "detectedAlphaChannel": "eight_bit_near_opaque",
                   "detectedOriginalFormat": "png",
-                  "entropyOfDistribution": 2.839785481887593,
+                  "entropyOfDistribution": 2.1347189378079356,
                   "modelName": "data_texture_metadata_model",
-                  "name": "data_texture_metadata_model0",
                   "pixelsHigh": 1024,
                   "pixelsWide": 1024
                 }
@@ -119,17 +117,16 @@
             },
             {
               "alphaPremultiplicationMode": "should_premultiply",
-              "assetDataHash": "da4c75fd68fed5a2dc28bb5ba11b002d",
+              "assetDataHash": "736cc4a338f13ca6744c3c578cc6a0e5",
               "assetLocator": "textures/Q03.png",
               "children": [
                 {
-                  "assetDataHash": "da4c75fd68fed5a2dc28bb5ba11b002d",
-                  "colorCount": 78775,
-                  "detectedAlphaChannel": "eight_bit_full_range",
+                  "assetDataHash": "736cc4a338f13ca6744c3c578cc6a0e5",
+                  "colorCount": 256,
+                  "detectedAlphaChannel": "eight_bit_near_opaque",
                   "detectedOriginalFormat": "png",
-                  "entropyOfDistribution": 5.9018446462431395,
+                  "entropyOfDistribution": 3.676968912494626,
                   "modelName": "data_texture_metadata_model",
-                  "name": "data_texture_metadata_model0",
                   "pixelsHigh": 1024,
                   "pixelsWide": 1024
                 }
@@ -160,17 +157,16 @@
             },
             {
               "alphaPremultiplicationMode": "should_premultiply",
-              "assetDataHash": "33b87da2f7d45aa78bf4c76bc23f2ab1",
+              "assetDataHash": "1b22e05a984840bc0a3a8008ecbe7db6",
               "assetLocator": "textures/Q04.png",
               "children": [
                 {
-                  "assetDataHash": "33b87da2f7d45aa78bf4c76bc23f2ab1",
-                  "colorCount": 30867,
+                  "assetDataHash": "1b22e05a984840bc0a3a8008ecbe7db6",
+                  "colorCount": 255,
                   "detectedAlphaChannel": "no_alpha",
                   "detectedOriginalFormat": "png",
-                  "entropyOfDistribution": 3.0347529609805073,
+                  "entropyOfDistribution": 2.2860567814613684,
                   "modelName": "data_texture_metadata_model",
-                  "name": "data_texture_metadata_model0",
                   "pixelsHigh": 1024,
                   "pixelsWide": 1024
                 }
@@ -201,17 +197,16 @@
             },
             {
               "alphaPremultiplicationMode": "should_premultiply",
-              "assetDataHash": "195e4aae8b1251054242dd034f1798c3",
+              "assetDataHash": "d2fd927b2f4f2d7bd07c9cafbe1fe682",
               "assetLocator": "textures/Q05.png",
               "children": [
                 {
-                  "assetDataHash": "195e4aae8b1251054242dd034f1798c3",
-                  "colorCount": 49606,
-                  "detectedAlphaChannel": "eight_bit_near_opaque",
+                  "assetDataHash": "d2fd927b2f4f2d7bd07c9cafbe1fe682",
+                  "colorCount": 256,
+                  "detectedAlphaChannel": "no_alpha",
                   "detectedOriginalFormat": "png",
-                  "entropyOfDistribution": 3.281588737522159,
+                  "entropyOfDistribution": 2.2163418391628658,
                   "modelName": "data_texture_metadata_model",
-                  "name": "data_texture_metadata_model0",
                   "pixelsHigh": 1024,
                   "pixelsWide": 1024
                 }
@@ -242,17 +237,16 @@
             },
             {
               "alphaPremultiplicationMode": "should_premultiply",
-              "assetDataHash": "e5f3fbaffaff54f42769f3f05c0360e7",
+              "assetDataHash": "25ec92b87c7875bcf6bbbefa45ccb6f7",
               "assetLocator": "textures/Q06.png",
               "children": [
                 {
-                  "assetDataHash": "e5f3fbaffaff54f42769f3f05c0360e7",
-                  "colorCount": 6429,
+                  "assetDataHash": "25ec92b87c7875bcf6bbbefa45ccb6f7",
+                  "colorCount": 254,
                   "detectedAlphaChannel": "no_alpha",
                   "detectedOriginalFormat": "png",
-                  "entropyOfDistribution": 1.6612710307722554,
+                  "entropyOfDistribution": 1.5017842511994077,
                   "modelName": "data_texture_metadata_model",
-                  "name": "data_texture_metadata_model0",
                   "pixelsHigh": 1024,
                   "pixelsWide": 1024
                 }
@@ -283,17 +277,16 @@
             },
             {
               "alphaPremultiplicationMode": "should_premultiply",
-              "assetDataHash": "39dee4e1fb73be7d458c9bd280ea2b82",
+              "assetDataHash": "37f0253015b39bd6ff3282604eafe643",
               "assetLocator": "textures/Q07.png",
               "children": [
                 {
-                  "assetDataHash": "39dee4e1fb73be7d458c9bd280ea2b82",
-                  "colorCount": 30932,
+                  "assetDataHash": "37f0253015b39bd6ff3282604eafe643",
+                  "colorCount": 256,
                   "detectedAlphaChannel": "no_alpha",
                   "detectedOriginalFormat": "png",
-                  "entropyOfDistribution": 3.71367947138665,
+                  "entropyOfDistribution": 2.913710535045808,
                   "modelName": "data_texture_metadata_model",
-                  "name": "data_texture_metadata_model0",
                   "pixelsHigh": 1024,
                   "pixelsWide": 1024
                 }
@@ -324,17 +317,16 @@
             },
             {
               "alphaPremultiplicationMode": "should_premultiply",
-              "assetDataHash": "cbd8f381e190b481ec03665718196691",
+              "assetDataHash": "8eec0d56dcc88e2e4f94abd3499cace8",
               "assetLocator": "textures/Q08.png",
               "children": [
                 {
-                  "assetDataHash": "cbd8f381e190b481ec03665718196691",
-                  "colorCount": 20104,
+                  "assetDataHash": "8eec0d56dcc88e2e4f94abd3499cace8",
+                  "colorCount": 256,
                   "detectedAlphaChannel": "no_alpha",
                   "detectedOriginalFormat": "png",
-                  "entropyOfDistribution": 2.4994684218349708,
+                  "entropyOfDistribution": 2.0224555653233063,
                   "modelName": "data_texture_metadata_model",
-                  "name": "data_texture_metadata_model0",
                   "pixelsHigh": 1024,
                   "pixelsWide": 1024
                 }
@@ -365,17 +357,16 @@
             },
             {
               "alphaPremultiplicationMode": "should_premultiply",
-              "assetDataHash": "4dc1456798e7cc8fac335446b59ace92",
+              "assetDataHash": "b2003a93e37a31e41eec73645cb5a326",
               "assetLocator": "textures/Q09.png",
               "children": [
                 {
-                  "assetDataHash": "4dc1456798e7cc8fac335446b59ace92",
-                  "colorCount": 10274,
+                  "assetDataHash": "b2003a93e37a31e41eec73645cb5a326",
+                  "colorCount": 253,
                   "detectedAlphaChannel": "no_alpha",
                   "detectedOriginalFormat": "png",
-                  "entropyOfDistribution": 1.5975800801291364,
+                  "entropyOfDistribution": 1.4061731686120793,
                   "modelName": "data_texture_metadata_model",
-                  "name": "data_texture_metadata_model0",
                   "pixelsHigh": 1024,
                   "pixelsWide": 1024
                 }
@@ -406,17 +397,16 @@
             },
             {
               "alphaPremultiplicationMode": "should_premultiply",
-              "assetDataHash": "630aff9911ccdb2f0bd7881c5adddbc0",
+              "assetDataHash": "1fb52c942eec8904e244cf9870d8ae1c",
               "assetLocator": "textures/Q10.png",
               "children": [
                 {
-                  "assetDataHash": "630aff9911ccdb2f0bd7881c5adddbc0",
-                  "colorCount": 32782,
+                  "assetDataHash": "1fb52c942eec8904e244cf9870d8ae1c",
+                  "colorCount": 255,
                   "detectedAlphaChannel": "no_alpha",
                   "detectedOriginalFormat": "png",
-                  "entropyOfDistribution": 2.5253064009678363,
+                  "entropyOfDistribution": 1.8993716271028767,
                   "modelName": "data_texture_metadata_model",
-                  "name": "data_texture_metadata_model0",
                   "pixelsHigh": 1024,
                   "pixelsWide": 1024
                 }
@@ -4746,7 +4736,7 @@
       "effectUsesWorldUnderstanding": false,
       "effectUsesWorldUnderstandingV2": false,
       "effectUsesWriteableSignalSource": false,
-      "engineSDKVersion": "167.0",
+      "engineSDKVersion": "168.0",
       "externalTexturesWhitelistedDomains": null,
       "faceExpressionFittingMinVersion": 15,
       "faceExpressionFittingRTRRetargetingMinVersion": 1,
@@ -4932,7 +4922,7 @@
   "version": {
     "dev": 0,
     "patch": 0,
-    "prod": 167
+    "prod": 168
   },
   "visual_programming": {
     "connections": [
